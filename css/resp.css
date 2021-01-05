@@ -1,0 +1,13 @@
+@media(max-width: 580px){
+	.banner{height:900px;}
+	.banner-left{margin-bottom: 15px;}
+	.about-right{margin-top:15px;}
+	.blog-box .details{text-align: center;}
+	.mail-chimp{margin-top: 15px;}
+}
+@media (max-width: 1366px){
+
+.about-area .about-left {
+    padding-left: 5%;
+}
+}
